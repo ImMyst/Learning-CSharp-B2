@@ -1,0 +1,5 @@
+D:\Program Files (x86)\JetBrains\Rider 2017.2\Project\TP Noté\TP Noté\obj\Debug\TP Noté.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\JetBrains\Rider 2017.2\Project\TP Noté\TP Noté\bin\Debug\TPNoté.exe
+D:\Program Files (x86)\JetBrains\Rider 2017.2\Project\TP Noté\TP Noté\bin\Debug\TPNoté.pdb
+D:\Program Files (x86)\JetBrains\Rider 2017.2\Project\TP Noté\TP Noté\obj\Debug\TPNoté.exe
+D:\Program Files (x86)\JetBrains\Rider 2017.2\Project\TP Noté\TP Noté\obj\Debug\TPNoté.pdb
